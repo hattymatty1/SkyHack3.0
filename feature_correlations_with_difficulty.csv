@@ -1,0 +1,16 @@
+,0
+num_transfer_bags,0.10565593717546123
+minimum_turn_minutes,0.09790924257655834
+total_bags,0.07375850969643707
+actual_ground_time_minutes,0.05911333331863947
+ground_time_ratio,0.05311582119695294
+total_passengers,0.038941138970242505
+bags_per_passenger,0.03748534906596098
+ssr_per_passenger,0.031342440767918575
+stroller_ratio,0.031342440767918575
+child_passenger_ratio,0.031298002096411294
+num_hot_transfer_bags,0.020264858937257137
+scheduled_ground_time_minutes,-0.012896269947615745
+load_factor,0.009274704785805945
+basic_economy_ratio,-0.006364725681686766
+avg_pax_per_pnr,0.002902848050569313
